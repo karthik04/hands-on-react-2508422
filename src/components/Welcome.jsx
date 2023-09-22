@@ -1,0 +1,1 @@
+export default props => <h1> Meet the {props.name} </h1>
